@@ -420,3 +420,16 @@ body {
 	bottom: -32%;
 	z-index: 30;
 }
+
+/* Image floats */
+.focus, .actual-work,
+.build-monitors img{
+	float:left;
+}
+.focus{
+	margin-right: 20px;
+}
+.focus, .actual-work{
+	border: 1px solid black;
+	padding: 5px;
+}
