@@ -6,5 +6,44 @@ section 2 page 2 - Agile rollout
 Section 2 page 3 - Our team
   - The whole idea is we were all full stack developers
   - Paired full time
+  - This can be very challenging in many respects which I can go into later if anyone would like to hear more about it
+  - no email
+  - no phone
+  - nothing to distract you
   - This meant we paired on everything from from sysadmin work to ie tweaks (we had to support ie6 for a while)
-  
+
+
+Section 2 page 4 - Team make up
+  - QA weren't just testers their job was to ensure it's a quality experience for the user and to work with product owner to make sure their vision is matched with what had built
+  - scrum master role was subservient leadership   
+     - man management
+
+Section 2 page 5 - Environment
+  - fosters communication
+  - tried different configurations but found this to be the best
+
+Section 2 page 6 - boards
+  - dashboards 
+  - build server, holidays by the stand up area, baord to show how far away a branch is from master
+
+Setion 3 page 1
+	- visible -> Anyone can come into bullpen at any time and see what is going on - and everyone was welcome to come in and see what we were working on
+	- Lean -> the goal was to keep the code in the repository for as short of time as possible
+	- Heartbeat -> daily standups, retrospectives, 
+	- Team -> each person had a voice and everyone had to respect that - without respect and are equal it all fails         
+
+Section 3 page 2	
+Section 3 page 3
+	- Started out as a weekly release cycle - but this was really because we weren't branching properly
+	- Went from SVN to GIT and decided to change our process to use some of the features of git - mainly easier branching
+
+Section 3 page 4
+	- Orange lane - backlog
+	- W - card walk through with QA
+	- O - development
+	- W - Test queue
+	- O - being tested
+	- W - PO  queue
+	- O - Ready to go into master
+	- W - ready to be deployed
+	
