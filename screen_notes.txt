@@ -1,0 +1,10 @@
+section 2 page 2 - Agile rollout
+- started 7 years ago 
+  - I was there for 5 of them
+  - Part of the team that was brought in to show what we could do
+
+Section 2 page 3 - Our team
+  - The whole idea is we were all full stack developers
+  - Paired full time
+  - This meant we paired on everything from from sysadmin work to ie tweaks (we had to support ie6 for a while)
+  
